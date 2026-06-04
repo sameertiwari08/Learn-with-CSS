@@ -15,3 +15,9 @@ p {
   font-size: 20px;
   margin: auto;
 }
+button {
+  color: red;
+  margin-bottom: auto;
+  justify-content: center;
+  background-color: blue;
+}
